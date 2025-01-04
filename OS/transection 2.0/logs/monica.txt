@@ -1,0 +1,2 @@
+Deposit: $100.00 - New Balance: $1100.00
+Deposit: $200.00 - New Balance: $1300.00
